@@ -1,12 +1,9 @@
 # Why You Should Start Founder Academy?
 
-<!-- ![video](/video/6ee9aebc-0b1f487f.mp4) -->
 
-<video width="320" height="240" controls>
-  <source src="/video/6ee9aebc-0b1f487f.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![video](/img/Vid1.png)](https://vimeo.com/1020291502)
 <br>
 
 Why You Should Start Founder Academy? A word from Otman Harrak: General Manager of ALX Morroco
+
+
