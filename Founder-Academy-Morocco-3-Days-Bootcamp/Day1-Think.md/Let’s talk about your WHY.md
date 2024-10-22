@@ -36,5 +36,5 @@ Understanding the issues and gaps being faced by society will set you up for inn
 
 These 7 Global (Grand) Challenges and 7 Global Opportunities are:
 
-![img](/img/7%20global%20challenges.png)
+![img](https://github.com/Art-OF-Work/Founder-Academy-Morocco-3-Days-Bootcamp/blob/main/Founder-Academy-Morocco-3-Days-Bootcamp/img/7%20global%20challenges.png?raw=true)
 
